@@ -1,0 +1,46 @@
+.body_backgorund {
+    background-image: url("bg1.jpg");
+    background-position: center;
+    background-size: cover;
+  }
+  body{
+    cursor:pointer;
+    overflow:hidden
+  }
+  h1
+  {
+      color: red; 
+      font-size: 40px;
+  }
+  #myCanvas
+  {
+      border-width:10px;
+      background-color: white; 
+      border-style:ridge;
+  }
+
+  button {
+    background-color: #4CAF50;
+    border: bold;
+    border-radius: 20px;
+    border-color: blue;
+    color: white;
+    padding: 10px 42px;
+    font-size: 16px;
+    cursor: pointer;
+    height: 40px;
+    width: 185px;
+  }
+
+  input
+  {
+    margin-right: 20px;
+    width: 250px;
+    text-align: center;
+    color:blue;
+    font-family: 'Times New Roman';
+    font-weight: bold;
+    font-size: medium;
+    font-style: normal;
+    background-color: rgb(115, 240, 240);
+  }
